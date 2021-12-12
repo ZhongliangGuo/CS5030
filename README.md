@@ -5,4 +5,6 @@ Score: 16/20
 ## Assessment 2 40%
 Score: 17/20
 ## Assessment 3 60%
-Score: not released
+Score: 16/20
+
+This assessment fucked me seriously...
